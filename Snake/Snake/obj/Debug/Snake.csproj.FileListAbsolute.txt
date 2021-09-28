@@ -1,0 +1,14 @@
+D:\Project source\c#\Snake OOП\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Project source\c#\Snake OOП\Snake\Snake\bin\Debug\Snake.exe
+D:\Project source\c#\Snake OOП\Snake\Snake\bin\Debug\Snake.pdb
+D:\Project source\c#\Snake OOП\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Project source\c#\Snake OOП\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Project source\c#\Snake OOП\Snake\Snake\obj\Debug\Snake.exe
+D:\Project source\c#\Snake OOП\Snake\Snake\obj\Debug\Snake.pdb
+D:\Project source\c#\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Project source\c#\Snake\Snake\Snake\bin\Debug\Snake.exe
+D:\Project source\c#\Snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\Project source\c#\Snake\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Project source\c#\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Project source\c#\Snake\Snake\Snake\obj\Debug\Snake.exe
+D:\Project source\c#\Snake\Snake\Snake\obj\Debug\Snake.pdb
